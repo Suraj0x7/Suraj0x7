@@ -7,8 +7,8 @@
   [![Email](https://img.shields.io/badge/Email-surajkumar.tech7@gmail.com-red?style=flat-square&logo=gmail)](mailto:surajkumar.tech7@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-%2B91--7482961500-green?style=flat-square&logo=whatsapp)](tel:+917482961500)
   [![GitHub](https://img.shields.io/badge/GitHub-Suraj0x7-black?style=flat-square&logo=github)](https://github.com/Suraj0x7)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA500?style=flat-square&logo=leetcode)](https://leetcode.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj%20Kumar-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA500?style=flat-square&logo=leetcode)](https://leetcode.com/u/Suraj0x7/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj%20Kumar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/surajkumar)
 
 </div>
 
@@ -294,9 +294,9 @@ Autonomous AI coding agent for automated website generation through terminal com
 |----------|------|
 | 📧 **Email** | [surajkumar.tech7@gmail.com](mailto:surajkumar.tech7@gmail.com) |
 | 📱 **Phone** | [+91-7482961500](tel:+917482961500) |
-| 💼 **LinkedIn** | [linkedin.com/in/surajkumar](https://linkedin.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/surajkumar](https://linkedin.com/in/surajkumar) |
 | 🐙 **GitHub** | [@Suraj0x7](https://github.com/Suraj0x7) |
-| 🏆 **LeetCode** | [Profile](https://leetcode.com) |
+| 🏆 **LeetCode** | [Profile](https://leetcode.com/u/Suraj0x7/) |
 
 </div>
 
