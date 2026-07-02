@@ -75,108 +75,12 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 1️⃣ **AI-Powered Phishing Email Detection System** (M.Tech Thesis)
-**Technologies**: Python, BERT, DPR, TensorFlow, SHAP, LIME
 
-A sophisticated hybrid approach combining **stylometric features** with **transformer-based representations** for detecting AI-generated phishing emails.
 
-**Key Achievements:**
-- ✅ Feature engineering: punctuation behavior, sentence structure, semantic meaning
-- ✅ Advanced NLP: BERT/DPR embeddings for semantic understanding
-- ✅ Explainability: SHAP/LIME for model interpretability
-- ✅ Focus on robustness and responsible AI application
 
----
 
-### 2️⃣ **Automated User Engagement Analytics Dashboard**
-**Technologies**: Power BI, SQL, Python, Power Automate
 
-Built an **end-to-end analytics solution** for real-time user engagement monitoring and insights generation.
-
-**Key Features:**
-- 📊 Interactive Power BI dashboard with dynamic visualizations
-- 🔄 Automated ETL workflows for data extraction and transformation
-- 📈 KPI tracking: DAU, retention rate, session duration, activity trends
-- ⚙️ Scheduled report generation and delivery automation
-- 🎯 Data-driven decision support system
-
-**Impact**: Real-time performance monitoring with automated insights delivery
-
----
-
-### 3️⃣ **Supply Chain Financial Analytics Dashboard**
-**Technologies**: SQL, Power BI, Excel
-
-Comprehensive analytics pipeline for supply chain financial performance tracking.
-
-**Key Features:**
-- 💾 SQL-based data extraction and transformation pipelines
-- 📋 Demand analysis and KPI monitoring
-- 📊 Interactive Power BI dashboards for financial performance tracking
-- 🤖 Automated reporting with stored procedures
-
----
-
-### 4️⃣ **Autonomous MCP-Powered Employee Onboarding Agent**
-**Technologies**: Python, AI, LLMs, APIs
-
-AI-based automation system to streamline HR onboarding workflows.
-
-**Key Features:**
-- 🤖 LLM-powered task automation and workflow management
-- 📋 Automated document processing
-- 🔗 API integration for seamless data flow
-- ✨ Reduced manual HR workload through intelligent automation
-
----
-
-### 5️⃣ **Virtual Cricket Game Application**
-**Technologies**: C++, OOP, STL, Data Structures
-
-Fully functional cricket simulation game using Object-Oriented Programming principles.
-
-**Key Features:**
-- 🎮 Modular class design for players, teams, scorecards
-- 📊 Real-time game state management
-- 🏏 Realistic scoring and match flow logic
-- 💪 Strong OOP application: encapsulation, inheritance, polymorphism
-
-**Repository**: [Virtual_Cricket_Game_Application](https://github.com/Suraj0x7/Virtual_Cricket_Game_Application)
-
----
-
-### 6️⃣ **Shortest Path Finder (Dijkstra's Algorithm)**
-**Technologies**: C++, STL, Graph Algorithms
-
-High-performance pathfinding implementation with optimized complexity.
-
-**Key Features:**
-- 📍 Dijkstra's algorithm with O(E log V) complexity
-- 🔗 Adjacency list representation
-- ⚡ Min-heap priority queue optimization
-- 📈 Handles disconnected graphs and large datasets
-
----
-
-### 7️⃣ **Controlled LLM Search (RAG System)**
-**Technologies**: Python, LLM, Embeddings, NLP
-
-Retrieval-Augmented Generation system for intelligent document Q&A.
-
-**Repository**: [controlled-llm-search](https://github.com/Suraj0x7/controlled-llm-search)
-
----
-
-### 8️⃣ **AI Website Builder Agent**
-**Technologies**: JavaScript, Node.js, Gemini API
-
-Autonomous AI coding agent for automated website generation through terminal commands.
-
-**Repository**: [ai-website-builder-agent](https://github.com/Suraj0x7/ai-website-builder-agent)
-
----
 
 ## 🏆 Achievements & Certifications
 
