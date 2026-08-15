@@ -36,47 +36,6 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 📊 Data Analytics & BI Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Python](https://img.shields.io/badge/Python%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 📖 Core CS Concepts
-- **Data Structures & Algorithms** | **OOP** | **Operating Systems** | **DBMS**
-- **Computer Networks** | **SDLC** | **Networking Protocols (TCP/IP, OSI)**
-
-</div>
-
----
-
-
-
 
 
 
@@ -163,30 +122,7 @@
 
 </div>
 
----
 
-## 📁 Featured Repositories
-
-### 🤖 AI/ML & Data Science
-- [phishing-detection-project](https://github.com/Suraj0x7/phishing-detection-project) - AI Phishing Detection
-- [AI-Phishing-Detection](https://github.com/Suraj0x7/AI-Phishing-Detection) - ML-based Detection System
-- [controlled-llm-search](https://github.com/Suraj0x7/controlled-llm-search) - RAG Document Q&A
-- [streamlit_healthcare](https://github.com/Suraj0x7/streamlit_healthcare) - Healthcare Analytics
-
-### 💻 Systems & Algorithms
-- [Daily-DSA-Cpp](https://github.com/Suraj0x7/Daily-DSA-Cpp) - Data Structures & Algorithms (200+ problems)
-- [daily-coding](https://github.com/Suraj0x7/daily-coding) - Daily Coding Practice
-
-### 🌐 Full-Stack & Web Development
-- [portfolio-website](https://github.com/Suraj0x7/portfolio-website) - Modern Portfolio
-- [ai-website-builder-agent](https://github.com/Suraj0x7/ai-website-builder-agent) - AI Website Generator
-- [Dev-Detective](https://github.com/Suraj0x7/Dev-Detective) - Developer Profile Finder
-- [WeatherApp](https://github.com/Suraj0x7/WeatherApp) - Real-time Weather Application
-
-### 🎮 Projects & Utilities
-- [Virtual_Cricket_Game_Application](https://github.com/Suraj0x7/Virtual_Cricket_Game_Application) - Cricket Simulation
-- [Allo](https://github.com/Suraj0x7/Allo) - Communication Platform
-- [first-contributions](https://github.com/Suraj0x7/first-contributions) - Open Source Mentoring
 
 ---
 
